@@ -14,7 +14,7 @@ input_file_path = r"C:\input_file_path\*.pdf"
 
 
 # ------------------------ Output file path ----------------------- #
-output_file_path = r"C:\Users\goldsby_c\Documents\myPython\Pearson\word_count.xlsx"
+output_file_path = r"C:\output_file_path.xlsx"
  
 
 def globing():
