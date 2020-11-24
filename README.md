@@ -21,8 +21,8 @@ $ sudo apt-get install python3-pip
 
 You may also need to install PyPDF2, glob, xlsxwriter and OS if you don't already have them installed :
 ```bash
-$ sudo pip3 install PyPDF2
-$ sudo pip3 install glob
-$ sudo pip3 install xlsxwriter
-$ sudo pip3 install OS
+$ sudo pip install PyPDF2
+$ sudo pip install glob
+$ sudo pip install xlsxwriter
+$ sudo pip install OS
 ```
